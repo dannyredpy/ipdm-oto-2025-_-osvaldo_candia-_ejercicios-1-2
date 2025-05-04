@@ -5,7 +5,7 @@
 Este proyecto contiene dos ejercicios:
 - Mostrar un **Texto** usando Jetpack Compose.
 - Mostrar una **Imagen** desde recursos (`res/drawable`).
-- 
+  
 ## Pre-requisitos
 --------------
 Ninguno 
