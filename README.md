@@ -10,7 +10,7 @@ Este proyecto contiene dos ejercicios:
 --------------
 Ninguno 
 
-## Capturas de pantalla
+## Captura de pantalla
 
 ![Imagen con texto en pantalla](https://raw.githubusercontent.com/dannyredpy/ipdm-oto-2025-_-osvaldo_candia-_ejercicios-1-2/refs/heads/main/Image.jpeg)
 
