@@ -17,4 +17,4 @@ Ninguno
 ## Cómo ejecutar
 1. Abrir el proyecto en Android Studio.
 2. Compilar y ejecutar en un emulador con API 31.
-3. Verás un texto "¡Feliz Cumple!" y una imagen.
+3. Verás un texto "¡Feliz Cumple Mama!" la firma del remitente De: Danny y una imagen de fondo con globos.
